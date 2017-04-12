@@ -77,6 +77,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\Sitecore.Support.69157.441352.config" />
+    <Content Include="layouts\MediaFramework\Upload.aspx" />
+    <Content Include="sitecore modules\Web\MediaFramework\js\Uploader\MFUpload.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
